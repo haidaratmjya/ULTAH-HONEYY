@@ -4,7 +4,7 @@
 <html lang="id">
 <head>
   <meta charset="UTF-8">
-  <title>Happy Birthday Sayang ❤️</title>
+  <title>Happy Birthday My Honey ❤️</title>
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -16,7 +16,7 @@
   <canvas id="confetti"></canvas>
 
   <div class="container">
-    <h1>🎉 Happy Birthday Syafina 🎉</h1>
+    <h1>🎉 Happy Birthday Syafina Aliya Febria 🎉</h1>
     <p class="subtitle">
       Untuk kamu yang selalu jadi alasan aku tersenyum 🤍
     </p>
